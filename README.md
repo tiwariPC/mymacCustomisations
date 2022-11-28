@@ -21,7 +21,9 @@
 #### inside a new env
 
 `conda create -n myrootenv python=3.7 root -v conda-forge`
+
 `conda activate myrootenv`
+
 `conda  config --env --add channels conda-forge`
 
 #### make macvim a default text editor
